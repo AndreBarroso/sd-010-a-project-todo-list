@@ -39,7 +39,8 @@ Acesse o arquivo.
 Basta agora clicar em **index** que o projeto vai abrir em seu navegador.
 
 
-Não é preciso fazer quaiquer instalações para a execução
+Não é preciso fazer quaisquer instalações para a execução.
+
 Para dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
 ---
