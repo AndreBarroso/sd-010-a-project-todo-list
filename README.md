@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Lista de Tarefas!
 
-Esse foi o primeiro projeto integrando HTML, CSS e JS que fiz. Ele tem uma carga nostalgica muito legal. Com ele pude sentir pela primeira fez o gostinho de ter uma página dinâmica rodando no navegador. Com ele também pude entender como uma página pode funcionar de forma personificada de acordo o usuário que a acessa.
+Esse foi o primeiro projeto integrando HTML, CSS e JS que fiz. Ele tem uma carga nostalgica muito legal. Com ele pude sentir pela primeira vez o gostinho de ter uma página dinâmica rodando no navegador. Com ele também, pude entender como uma página pode funcionar de forma personificada de acordo com o usuário que a acessa.
 
 Lembro de ter gostado muito do resultado e aqui senti como eu estava evoluindo tão rapidamente como desenvolvedor. Me senti muito orgulhoso, fazendo assim deste projeto, a minha primeira postagem no linkedin.
 
